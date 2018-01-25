@@ -1,0 +1,7 @@
+rtmx
+sqrt
+pthreads
+
+*.o
+
+results/
